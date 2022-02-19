@@ -1,4 +1,4 @@
-## 본 Repository는 POODADAK local 구동시 필요한 화장실 DB를 다운로드 및 제작할 수 있는 Repository입니다.
+## 현재 Repository에서는 POODADAK local 구동 시 필요한 화장실 DB를 다운로드 및 제작할 수 있습니다.
 
 ## script 이용 DB 만들기
 
